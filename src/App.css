@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans Condensed';
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.background{
+    background-image:linear-gradient(90deg,white,rgba(56, 67, 73, 0.199));
+}
+
+*{
+    box-sizing: border-box;
+}
